@@ -1,0 +1,38 @@
+* {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+h1 {
+    padding-top: 20px;
+    padding: 20px;
+}
+main {
+    padding-top: 30px;
+}
+.link {
+    
+    padding: 20px;
+    border-radius: 10px;
+    color: rgb(0, 1, 2);
+    text-decoration: none;
+
+    border: 2px solid black
+
+
+}
+.link:hover{
+    background-color: rgb(75, 18, 18);
+    color: aliceblue;
+}
+#btn{
+    
+    margin-top: 50px;
+}
+h3 {
+    padding-top: 20px;
+}
+#Text {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
